@@ -18,5 +18,5 @@ lista = [1,2,3,4,5]
 lista_invertida = lista.reverse()
 
 for i in range(5):
-    print(i)
+    print(i+1)
   
